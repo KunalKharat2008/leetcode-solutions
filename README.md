@@ -18,14 +18,12 @@ leetcode-solutions/
 ├── Sliding_Window/
 ├── Binary_Search/
 ├── Linked_List/
-├── Stack/
-├── Queue/
+├── Stack_Queue/
 ├── Trees/
 ├── Graphs/
-├── Dynamic_Programming/
 ├── Greedy/
 ├── Math/
-├── Backtracking/
+├── Heap/
 └── Notes/
 ```
 
