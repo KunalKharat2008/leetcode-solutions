@@ -34,8 +34,6 @@
 | Dynamic Programming | 0 |
 | Greedy | 0 |
 | Matrix | 0 |
-| Intervals | 0 |
-| Design | 0 |
 
 ---
 
